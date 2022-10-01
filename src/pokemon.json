@@ -1,0 +1,3097 @@
+{
+  "pokedex": [
+    {
+      "pokemon":{
+
+
+      "id": "1",
+      "nombre": "BULBASAUR",
+      "tipo": [
+        "planta",
+        "veneno"
+      ],
+      "habilidad": "Espesura",
+      "exp": "1059860",
+      "estadisticas": [
+        {
+          "ps": "45",
+          "atq": "49",
+          "def": "49",
+          "vel": "45",
+          "At. Esp": "65",
+          "Def. Esp": "65"
+        }
+      ],
+      "evoluciones": [
+        {
+          "id": "1",
+          "nombre": "BULBASAUR"
+        },
+        {
+          "id": "2",
+          "nombre": "IVYSAUR",
+          "nivel": "16"
+        },
+        {
+          "id": "3",
+          "nombre": "VENUSAUR",
+          "nivel": "32"
+        }
+      ],
+      "radio": [
+        {
+          "macho": "87.5",
+          "hembra": "12.5"
+        }
+      ],
+      "grupo": [
+        "monstruo",
+        "planta"
+      ],
+      "categoria": "pokémon semilla",
+      "altura": "0.7",
+      "peso": "6.9",
+      "descripcion": "Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo.",
+      "movimientos": [
+        {
+          "tipo": "nivel",
+          "nombre": "Placaje",
+          "nivel": "1"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Gruñido",
+          "nivel": "3"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Drenadoras",
+          "nivel": "7"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Látigo Cepa",
+          "nivel": "9"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Polvo Veneno",
+          "nivel": "13"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Somnífero",
+          "nivel": "13"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Derribo",
+          "nivel": "15"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Hoja Afilada",
+          "nivel": "19"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Dulce Aroma",
+          "nivel": "21"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Desarrollo",
+          "nivel": "25"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Doble Filo",
+          "nivel": "27"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Abatidoras",
+          "nivel": "31"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Síntesis",
+          "nivel": "33"
+        },
+        {
+          "tipo": "nivel",
+          "nombre": "Bomba Germen",
+          "nivel": "37"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Tóxico",
+          "nivel": "6"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Recurrente",
+          "nivel": "9"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Poder Oculto",
+          "nivel": "10"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Día Soleado",
+          "nivel": "11"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Protección",
+          "nivel": "17"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Gigadrenado",
+          "nivel": "19"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Frustración",
+          "nivel": "21"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Rayo Solar",
+          "nivel": "22"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Retroceso",
+          "nivel": "27"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Doble Equipo",
+          "nivel": "32"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Bomba Lodo",
+          "nivel": "36"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Imagen",
+          "nivel": "42"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Daño Secreto",
+          "nivel": "43"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Descanso",
+          "nivel": "44"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Atracción",
+          "nivel": "45"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Energibola",
+          "nivel": "53"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Aguante",
+          "nivel": "58"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Destello",
+          "nivel": "70"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Danza Espada",
+          "nivel": "75"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Seducción",
+          "nivel": "78"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Sonámbulo",
+          "nivel": "82"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Don Natural",
+          "nivel": "83"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Hierba Lazo",
+          "nivel": "86"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Contoneo",
+          "nivel": "87"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MT",
+          "nombre": "Sustituto",
+          "nivel": "90"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MO",
+          "nombre": "Corte",
+          "nivel": "1"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MO",
+          "nombre": "Fuerza",
+          "nivel": "4"
+        },
+        {
+          "tipo": "MT/MO",
+          "maquina": "MO",
+          "nombre": "Golpe Roca",
+          "nivel": "6"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Amnesia"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Encanto"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Maldición"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Silbato"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Arraigo"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Lluevehojas"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Pantalla Luz"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Hoja Mágica"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Adaptación"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Danza Pétalo"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Velo Sagrado"
+        },
+        {
+          "tipo": "huevo",
+          "nombre": "Cabezazo"
+        }
+      ]
+    }
+    },{
+      "pokemon":{
+
+
+        "id": "2",
+        "nombre": "IVYSAUR",
+        "tipo": [
+          "planta",
+          "veneno"
+        ],
+        "habilidad": "Espesura",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "60",
+            "atq": "62",
+            "def": "63",
+            "vel": "60",
+            "At. Esp": "80",
+            "Def. Esp": "80"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "1",
+            "nombre": "BULBASAUR"
+          },
+          {
+            "id": "2",
+            "nombre": "IVYSAUR",
+            "nivel": "16"
+          },
+          {
+            "id": "3",
+            "nombre": "VENUSAUR",
+            "nivel": "32"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "planta"
+        ],
+        "categoria": "pokémon semilla",
+        "altura": "1",
+        "peso": "13",
+        "descripcion": "Cuando le crece bastante el bulbo del lomo, pierde la capacidad de erguirse sobre las patas traseras.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Placaje",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Gruñido",
+            "nivel": "3"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Drenadoras",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Látigo Cepa",
+            "nivel": "9"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Polvo Veneno",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Somnífero",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Derribo",
+            "nivel": "15"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hoja Afilada",
+            "nivel": "20"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Dulce Aroma",
+            "nivel": "23"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Desarrollo",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Doble Filo",
+            "nivel": "31"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Abatidoras",
+            "nivel": "36"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Síntesis",
+            "nivel": "39"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Rayo Solar",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Recurrente",
+            "nivel": "9"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Día Soleado",
+            "nivel": "11"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Gigadrenado",
+            "nivel": "19"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rayo Solar",
+            "nivel": "22"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Bomba Lodo",
+            "nivel": "36"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Energibola",
+            "nivel": "53"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Destello",
+            "nivel": "70"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Espada",
+            "nivel": "75"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hierba Lazo",
+            "nivel": "86"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Corte",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "3",
+        "nombre": "VENUSAUR",
+        "tipo": [
+          "planta",
+          "veneno"
+        ],
+        "habilidad": "Espesura",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "80",
+            "atq": "82",
+            "def": "83",
+            "vel": "80",
+            "At. Esp": "100",
+            "Def. Esp": "100"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "1",
+            "nombre": "BULBASAUR"
+          },
+          {
+            "id": "2",
+            "nombre": "IVYSAUR",
+            "nivel": "16"
+          },
+          {
+            "id": "3",
+            "nombre": "VENUSAUR",
+            "nivel": "32"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "planta"
+        ],
+        "categoria": "pokémon semilla",
+        "altura": "2",
+        "peso": "100",
+        "descripcion": "La planta florece cuando absorbe energía solar, lo cual le obliga a buscar siempre la luz del sol.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Placaje",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Gruñido",
+            "nivel": "3"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Drenadoras",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Látigo Cepa",
+            "nivel": "9"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Polvo Veneno",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Somnífero",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Derribo",
+            "nivel": "15"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hoja Afilada",
+            "nivel": "20"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Dulce Aroma",
+            "nivel": "23"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Desarrollo",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Doble Filo",
+            "nivel": "31"
+          },{
+            "tipo": "nivel",
+            "nombre": "Danza Pétalo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Abatidoras",
+            "nivel": "39"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Síntesis",
+            "nivel": "45"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Rayo Solar",
+            "nivel": "53"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rugido",
+            "nivel": "5"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Recurrente",
+            "nivel": "9"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Día Soleado",
+            "nivel": "11"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hiperrayo",
+            "nivel": "15"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Gigadrenado",
+            "nivel": "19"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rayo Solar",
+            "nivel": "22"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Terremoto",
+            "nivel": "26"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Bomba Lodo",
+            "nivel": "36"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Energibola",
+            "nivel": "53"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Gigaimpacto",
+            "nivel": "68"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Destello",
+            "nivel": "70"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Espada",
+            "nivel": "75"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hierba Lazo",
+            "nivel": "86"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Corte",
+            "nivel": "1"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          },{
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Trepa Rocas",
+            "nivel": "8"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "4",
+        "nombre": "CHARMANDER",
+        "tipo": "fuego",
+        "habilidad": "Mar de Llamas",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "39",
+            "atq": "52",
+            "def": "43",
+            "vel": "65",
+            "At. Esp": "60",
+            "Def. Esp": "50"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "4",
+            "nombre": "CHARMANDER"
+          },
+          {
+            "id": "5",
+            "nombre": "CHARMELEON",
+            "nivel": "16"
+          },
+          {
+            "id": "6",
+            "nombre": "CHARIZARD",
+            "nivel": "36"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "dragón"
+        ],
+        "categoria": "pokémon lagarto",
+        "altura": "0.6",
+        "peso": "8.5",
+        "descripcion": "Prefiere las cosas calientes. Dicen que cuando llueve le sale vapor de la punta de la cola.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Arañazo",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Gruñido",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Ascuas",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Pantalla de Humo",
+            "nivel": "10"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Furia Dragón",
+            "nivel": "16"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cara Susto",
+            "nivel": "19"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Col. Fuego",
+            "nivel": "25"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cuchillada",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Lanzallamas",
+            "nivel": "34"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Rueda Fuego",
+            "nivel": "37"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Puño Certero",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Garra Dragón",
+            "nivel": "2"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Día Soleado",
+            "nivel": "11"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Cola Férrea",
+            "nivel": "23"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Excavar",
+            "nivel": "28"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Demolición",
+            "nivel": "31"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzallamas",
+            "nivel": "35"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Llamarada",
+            "nivel": "38"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tumbarrocas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Golpe Aéreo",
+            "nivel": "40"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sofoco",
+            "nivel": "50"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzamiento",
+            "nivel": "56"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Fuego Fatuo",
+            "nivel": "61"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Garra Umbría",
+            "nivel": "65"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Espada",
+            "nivel": "75"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Avalancha",
+            "nivel": "80"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Corte",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Poder Pasado"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Paliza"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Tambor"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Mordisco"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Triturar"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Danza Dragón"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Furia Dragón"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Envite Ígneo"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Garra Metal"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Enfado"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Avalancha"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Danza Espada"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "5",
+        "nombre": "CHARMELEON",
+        "tipo": "fuego",
+        "habilidad": "Mar de Llamas",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "58",
+            "atq": "64",
+            "def": "58",
+            "vel": "80",
+            "At. Esp": "80",
+            "Def. Esp": "65"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "4",
+            "nombre": "CHARMANDER"
+          },
+          {
+            "id": "5",
+            "nombre": "CHARMELEON",
+            "nivel": "16"
+          },
+          {
+            "id": "6",
+            "nombre": "CHARIZARD",
+            "nivel": "36"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "dragón"
+        ],
+        "categoria": "pokémon llama",
+        "altura": "1.1",
+        "peso": "19",
+        "descripcion": "Este Pokémon de naturaleza agresiva ataca en combate con su cola llameante y hace trizas al rival con sus afiladas garras.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Arañazo",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Gruñido",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Ascuas",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Pantalla de Humo",
+            "nivel": "10"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Furia Dragón",
+            "nivel": "17"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cara Susto",
+            "nivel": "21"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Col. Fuego",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cuchillada",
+            "nivel": "32"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Lanzallamas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Rueda Fuego",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Puño Certero",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Garra Dragón",
+            "nivel": "2"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Día Soleado",
+            "nivel": "11"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Cola Férrea",
+            "nivel": "23"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Excavar",
+            "nivel": "28"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Demolición",
+            "nivel": "31"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzallamas",
+            "nivel": "35"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Llamarada",
+            "nivel": "38"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tumbarrocas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Golpe Aéreo",
+            "nivel": "40"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sofoco",
+            "nivel": "50"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzamiento",
+            "nivel": "56"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Fuego Fatuo",
+            "nivel": "61"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Garra Umbría",
+            "nivel": "65"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Espada",
+            "nivel": "75"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Avalancha",
+            "nivel": "80"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Corte",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "6",
+        "nombre": "CHARIZARD",
+        "tipo": ["fuego","volador"],
+        "habilidad": "Mar de Llamas",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "78",
+            "atq": "84",
+            "def": "78",
+            "vel": "100",
+            "At. Esp": "109",
+            "Def. Esp": "85"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "4",
+            "nombre": "CHARMANDER"
+          },
+          {
+            "id": "5",
+            "nombre": "CHARMELEON",
+            "nivel": "16"
+          },
+          {
+            "id": "6",
+            "nombre": "CHARIZARD",
+            "nivel": "36"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "dragón"
+        ],
+        "categoria": "pokémon llama",
+        "altura": "1.7",
+        "peso": "90.5",
+        "descripcion": "Escupe un fuego tan caliente que funde las rocas. Causa incendios forestales sin querer.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Garra Dragón",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Garra Umbría",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Tajo Aéreo",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Arañazo",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Gruñido",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Ascuas",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Pantalla de Humo",
+            "nivel": "10"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Furia Dragón",
+            "nivel": "17"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cara Susto",
+            "nivel": "21"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Col. Fuego",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cuchillada",
+            "nivel": "32"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Lanzallamas",
+            "nivel": "42"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Rueda Fuego",
+            "nivel": "49"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Onda Ígnea",
+            "nivel": "59"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Envite Ígneo",
+            "nivel": "66"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Puño Certero",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Garra Dragón",
+            "nivel": "2"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rugido",
+            "nivel": "5"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Día Soleado",
+            "nivel": "11"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hiperrayo",
+            "nivel": "15"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Cola Férrea",
+            "nivel": "23"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Terremoto",
+            "nivel": "26"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Excavar",
+            "nivel": "28"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Demolición",
+            "nivel": "31"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzallamas",
+            "nivel": "35"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Llamarada",
+            "nivel": "38"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tumbarrocas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Golpe Aéreo",
+            "nivel": "40"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Ala de Acero",
+            "nivel": "47"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sofoco",
+            "nivel": "50"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Respiro",
+            "nivel": "51"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Onda Certera",
+            "nivel": "52"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzamiento",
+            "nivel": "56"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Pulso Dragón",
+            "nivel": "59"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Fuego Fatuo",
+            "nivel": "61"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Garra Umbría",
+            "nivel": "65"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Giga Impacto",
+            "nivel": "68"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Espada",
+            "nivel": "75"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Avalancha",
+            "nivel": "80"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Corte",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Vuelo",
+            "nivel": "2"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Despejar",
+            "nivel": "5"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "7",
+        "nombre": "SQUIRTLE",
+        "tipo": "agua",
+        "habilidad": "torrente",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "44",
+            "atq": "48",
+            "def": "65",
+            "vel": "43",
+            "At. Esp": "50",
+            "Def. Esp": "64"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "7",
+            "nombre": "SQUIRTLE"
+          },
+          {
+            "id": "8",
+            "nombre": "WARTORTLE",
+            "nivel": "16"
+          },
+          {
+            "id": "9",
+            "nombre": "BLASTOISE",
+            "nivel": "36"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "agua"
+        ],
+        "categoria": "pokémon tortuguita",
+        "altura": "0.5",
+        "peso": "9",
+        "descripcion": "Cuando retrae su largo cuello en el caparazón, dispara agua a una presión increíble.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Placaje",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Látigo",
+            "nivel": "4"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Burbuja",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Refugio",
+            "nivel": "10"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Pistola Agua",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Mordisco",
+            "nivel": "16"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Giro Rápido",
+            "nivel": "19"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Protección",
+            "nivel": "22"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hidropulso",
+            "nivel": "25"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Acuacola",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cabezazo",
+            "nivel": "31"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Danza Lluvia",
+            "nivel": "34"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hidrobomba",
+            "nivel": "37"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Puño Certero",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hidropulso",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Granizo",
+            "nivel": "7"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rayo Hielo",
+            "nivel": "13"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Ventisca",
+            "nivel": "14"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Lluvia",
+            "nivel": "18"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Cola Férrea",
+            "nivel": "23"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Excavar",
+            "nivel": "28"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Demolición",
+            "nivel": "31"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tumbarrocas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Salmuera",
+            "nivel": "55"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzamiento",
+            "nivel": "56"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Giro Bola",
+            "nivel": "74"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Surf",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Cascada",
+            "nivel": "7"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Acua Jet"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Acua Aro"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Sorpresa"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Azote"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Profecía"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Niebla"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Manto Espejo"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Neblina"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Chapoteo Lodo"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Agua Lodosa"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Alivio"
+          },
+          {
+            "tipo": "huevo",
+            "nombre": "Bostezo"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "8",
+        "nombre": "WARTORTLE",
+        "tipo": "agua",
+        "habilidad": "torrente",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "59",
+            "atq": "63",
+            "def": "80",
+            "vel": "58",
+            "At. Esp": "65",
+            "Def. Esp": "80"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "7",
+            "nombre": "SQUIRTLE"
+          },
+          {
+            "id": "8",
+            "nombre": "WARTORTLE",
+            "nivel": "16"
+          },
+          {
+            "id": "9",
+            "nombre": "BLASTOISE",
+            "nivel": "36"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "agua"
+        ],
+        "categoria": "pokémon tortuga",
+        "altura": "1",
+        "peso": "22.5",
+        "descripcion": "Se lo considera un símbolo de longevidad. Los ejemplares más ancianos tienen musgo sobre el caparazón.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Placaje",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Látigo",
+            "nivel": "4"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Burbuja",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Refugio",
+            "nivel": "10"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Pistola Agua",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Mordisco",
+            "nivel": "16"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Giro Rápido",
+            "nivel": "20"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Protección",
+            "nivel": "24"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hidropulso",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Acuacola",
+            "nivel": "32"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cabezazo",
+            "nivel": "36"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Danza Lluvia",
+            "nivel": "40"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hidrobomba",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Puño Certero",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hidropulso",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Granizo",
+            "nivel": "7"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rayo Hielo",
+            "nivel": "13"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Ventisca",
+            "nivel": "14"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Lluvia",
+            "nivel": "18"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Cola Férrea",
+            "nivel": "23"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Excavar",
+            "nivel": "28"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Demolición",
+            "nivel": "31"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tumbarrocas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Salmuera",
+            "nivel": "55"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzamiento",
+            "nivel": "56"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Giro Bola",
+            "nivel": "74"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Surf",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Cascada",
+            "nivel": "7"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "9",
+        "nombre": "BLASTOISE",
+        "tipo": "agua",
+        "habilidad": "torrente",
+        "exp": "1059860",
+        "estadisticas": [
+          {
+            "ps": "79",
+            "atq": "83",
+            "def": "100",
+            "vel": "78",
+            "At. Esp": "85",
+            "Def. Esp": "105"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "7",
+            "nombre": "SQUIRTLE"
+          },
+          {
+            "id": "8",
+            "nombre": "WARTORTLE",
+            "nivel": "16"
+          },
+          {
+            "id": "9",
+            "nombre": "BLASTOISE",
+            "nivel": "36"
+          }
+        ],
+        "radio": [
+          {
+            "macho": "87.5",
+            "hembra": "12.5"
+          }
+        ],
+        "grupo": [
+          "monstruo",
+          "agua"
+        ],
+        "categoria": "pokémon armazón",
+        "altura": "1.6",
+        "peso": "85.5",
+        "descripcion": "Para acabar con su enemigo, lo aplasta con el peso de su cuerpo. En momentos de apuro, se esconde en el caparazón.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Placaje",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Látigo",
+            "nivel": "4"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Burbuja",
+            "nivel": "7"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Refugio",
+            "nivel": "10"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Pistola Agua",
+            "nivel": "13"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Mordisco",
+            "nivel": "16"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Giro Rápido",
+            "nivel": "20"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Protección",
+            "nivel": "24"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hidropulso",
+            "nivel": "28"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Acuacola",
+            "nivel": "32"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Cabezazo",
+            "nivel": "39"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Danza Lluvia",
+            "nivel": "46"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Hidrobomba",
+            "nivel": "53"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Puño Certero",
+            "nivel": "1"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hidropulso",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rugido",
+            "nivel": "5"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tóxico",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Granizo",
+            "nivel": "7"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Poder Oculto",
+            "nivel": "10"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Rayo Hielo",
+            "nivel": "13"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Ventisca",
+            "nivel": "14"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Hiperrayo",
+            "nivel": "15"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Protección",
+            "nivel": "17"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Danza Lluvia",
+            "nivel": "18"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Frustración",
+            "nivel": "21"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Cola Férrea",
+            "nivel": "23"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Retroceso",
+            "nivel": "27"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Excavar",
+            "nivel": "28"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Demolición",
+            "nivel": "31"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Doble Equipo",
+            "nivel": "32"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Tumbarrocas",
+            "nivel": "39"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Imagen",
+            "nivel": "42"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Daño Secreto",
+            "nivel": "43"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Descanso",
+            "nivel": "44"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Atracción",
+            "nivel": "45"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Onda Certera",
+            "nivel": "52"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Salmuera",
+            "nivel": "55"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Lanzamiento",
+            "nivel": "56"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Aguante",
+            "nivel": "58"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Gigaimpacto",
+            "nivel": "68"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Alud",
+            "nivel": "72"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Giro Bola",
+            "nivel": "74"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Seducción",
+            "nivel": "78"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Avalancha",
+            "nivel": "80"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sonámbulo",
+            "nivel": "82"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Don Natural",
+            "nivel": "83"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Contoneo",
+            "nivel": "87"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Sustituto",
+            "nivel": "90"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MT",
+            "nombre": "Foco Resplandor",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Surf",
+            "nivel": "3"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Fuerza",
+            "nivel": "4"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Golpe Roca",
+            "nivel": "6"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Cascada",
+            "nivel": "7"
+          },
+          {
+            "tipo": "MT/MO",
+            "maquina": "MO",
+            "nombre": "Treparrocas",
+            "nivel": "8"
+          }
+        ]
+      }
+    },{
+      "pokemon":{
+
+
+        "id": "10",
+        "nombre": "CATERPIE",
+        "tipo": "bicho",
+        "habilidad": "Polvo Escudo",
+        "exp": "1000000",
+        "estadisticas": [
+          {
+            "ps": "45",
+            "atq": "30",
+            "def": "35",
+            "vel": "45",
+            "At. Esp": "20",
+            "Def. Esp": "20"
+          }
+        ],
+        "evoluciones": [
+          {
+            "id": "10",
+            "nombre": "CATERPIE"
+          },
+          {
+            "id": "11",
+            "nombre": "METAPOD",
+            "nivel": "7"
+          },
+          {
+            "id": "12",
+            "nombre": "BUTTERFREE",
+            "nivel": "10"
+          }
+        ],
+        "grupo": "bicho",
+        "categoria": "pokémon gusano",
+        "altura": "0.3",
+        "peso": "2.9",
+        "descripcion": "Para protegerse, despide un hedor horrible por las antenas con el que repele a sus enemigos.",
+        "movimientos": [
+          {
+            "tipo": "nivel",
+            "nombre": "Placaje",
+            "nivel": "1"
+          },
+          {
+            "tipo": "nivel",
+            "nombre": "Disparo Demora",
+            "nivel": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
